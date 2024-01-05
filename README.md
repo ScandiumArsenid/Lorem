@@ -1,20 +1,25 @@
 # Lorem
 
-Lorem ist ein 3 Dimensionales Spiel, welches mittels der Unreal Engine programmiert wurde.
+Lorem is a 3D Videogame, designed for medical professionals to test their knowledge.
 
 ## Gameplay
 
-    In dem Spiel verkörpert man einen Arzt, welcher in einer kleinen Klinik arbeitet.
+    The player is a doctor, who works in a hospital on a small island.
 
-## Ziel
+## Goal
 
-    Der Spieler wird mit Patienten konfrontiert und muss eine passende Anamnese, Diagnose und Therapievorschläge erstellen.
+    The player must correctly diagnose and compile an anamnesis for a patient. 
+    These will then be rated.
 
 ---
 
 #### Stack
 
-    Lorem wurde mittes der Unreal Engine Version 5.3.1 erstellt. 
+    Lorem runs on the Unreal Engine 5.3.1
+
+#### Disclaimer
+
+    This game is based on a real medical case, but the treatments in this game can be medically inacurate.
 
 #### System Requirements
 
