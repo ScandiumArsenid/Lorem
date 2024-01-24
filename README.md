@@ -1,5 +1,11 @@
 # Lorem
 
+---
+
+![](/Lorem.png)
+
+---
+
 Lorem is a 3D Videogame, designed for medical professionals to test their knowledge.
 
 ## Gameplay
