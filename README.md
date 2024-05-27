@@ -12,6 +12,8 @@
 
 ---
 
+#The sourcecode is downloadable via the releases. Content folder has been deleleted due to git LFS bandwith.
+
 Lorem is a 3D Videogame, designed for medical professionals to test their knowledge.
 
 ## Gameplay
